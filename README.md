@@ -9,7 +9,7 @@ The application features a clean dark-themed interface with a home page, search,
 ## 🔗 Live Demo
 
 **Live Project:**  
-👉 [Paste your live project link here]
+👉 https://shreemathi7727.github.io/MUZIFY/
 
 ## 👥 Team Members
 
